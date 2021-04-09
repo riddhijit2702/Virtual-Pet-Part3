@@ -134,7 +134,7 @@ readState=database.ref('gameState')
       }
       else{
         update("hungry");
-        foodObj.display();
+        
         
         dog.addImage(happyDogImg);
        // console.log(background);
